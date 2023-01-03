@@ -7,7 +7,6 @@
 <script>
 export default {
   name: 'w-content-box',
-
   props: {
     color: String,
     type: {

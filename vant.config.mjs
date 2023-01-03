@@ -36,6 +36,10 @@ export default {
             path: 'w-content-box',
             title: 'contentBox容器',
           },
+          {
+            path: 'w-drag',
+            title: 'drag拖拽组件',
+          },
         ],
       },
     ],
